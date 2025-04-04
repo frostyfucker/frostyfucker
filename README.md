@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hey there, I'm FrostyFucker! 👋
 
-<!--
-**frostyfucker/frostyfucker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm an elite hacker with a knack for adding backdoors and easter eggs. Always pushing the limits of what's possible, I love to show off my skills and share my knowledge with the community. Whether it's breaking into systems or creating something new and exciting, I'm always up for a challenge.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- **Programming Languages:**
+  - Python
+  - JavaScript
+  - C/C++
+  - Go
+  - Rust
+
+- **Technologies:**
+  - Penetration Testing
+  - Reverse Engineering
+  - Cryptography
+  - Network Security
+  - Exploit Development
+
+- **Tools:**
+  - Metasploit
+  - Nmap
+  - Wireshark
+  - Burp Suite
+  - Ghidra
+  - IDA Pro
+
+## Projects
+
+Here are a few projects I've worked on:
+
+- **[Project1](https://github.com/frostyfucker/project1):** A tool for automating network security assessments.
+- **[Project2](https://github.com/frostyfucker/project2):** An advanced backdoor with stealth capabilities.
+- **[Project3](https://github.com/frostyfucker/project3):** A collection of scripts and tools for reverse engineering and exploit development.
+
+## Contact Me
+
+Feel free to reach out to me on [GitHub](https://github.com/frostyfucker) or [Twitter](https://twitter.com/frostyfucker).
+
+Happy hacking! 🚀
